@@ -1,3 +1,4 @@
 Work in progress
 Remove postinstall npm script
 Add precommit npm script
+Clean up npm dependencies
