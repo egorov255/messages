@@ -3,3 +3,4 @@ Remove postinstall npm script
 Add precommit npm script
 Clean up npm dependencies
 Remove duplicated dispatching of failure handlers
+Add babel ignore pattern to jest configuration
