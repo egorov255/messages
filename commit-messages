@@ -7,3 +7,5 @@ Add babel ignore pattern to jest configuration
 Clarify README about status codes
 Correct a typo in the word "html"
 Rename YippieMailer.sendEmail into YippieMailer.send
+Refactor tests for login actions
+Make them more readable.
