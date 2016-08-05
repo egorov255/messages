@@ -9,3 +9,5 @@ Correct a typo in the word "html"
 Rename YippieMailer.sendEmail into YippieMailer.send
 Refactor tests for login actions
 Make them more readable.
+Change importing client-core
+Import client-core after it is built by postinstall script.
