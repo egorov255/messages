@@ -14,4 +14,4 @@ Import client-core after it is built by postinstall script.
 Unmock client-core to fix auth reducer test
 Change client-core branch that is installed as npm dependency
 Move build from postinstall to prepublish script
-Build by gulp instead of directly by babel
+Build by gulp instead of building directly by babel
