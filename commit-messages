@@ -15,3 +15,8 @@ Unmock client-core to fix auth reducer test
 Change client-core branch that is installed as npm dependency
 Move build from postinstall to prepublish script
 Build by gulp instead of building directly by babel
+
+
+Change password validation
+
+Move passwordConfirmation error message from passport to passwordConfirmation field.
